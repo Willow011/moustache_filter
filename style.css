@@ -1,0 +1,24 @@
+h3
+{
+    font-size: 25px;
+}
+
+button{
+    background-color: rgb(83, 83, 255);
+    color: aliceblue;
+}
+
+button:hover
+{
+    background-color: rgb(123, 208, 236);
+}
+
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+
+}
